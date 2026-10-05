@@ -1,3 +1,33 @@
+librga (2.2.0-1+git20260121.2cffdf6~resolute) resolute; urgency=medium
+
+  * Package for resolute
+
+ -- Max <rk-obs@yandex.ru>  Mon, 05 Oct 2026 08:23:54 +0300
+
+librga (2.2.0-1+git20231208.a9fc19e6~noble) noble; urgency=medium
+
+  * Package for noble
+
+ -- Jianfeng Liu <liujianfeng1994@gmail.com>  Tue, 14 May 2024 11:32:37 +0800
+
+librga (2.2.0-1+git20231208.a9fc19e6~jammy) jammy; urgency=medium
+
+  * Fix package version
+
+ -- Joshua Riek <jjriek@verizon.net>  Mon, 26 Feb 2024 18:31:37 -0500
+
+librga (2.2.0-1+20231208.gita9fc19e6~jammy) jammy; urgency=medium
+
+  * Package for jammy
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 25 Feb 2024 11:25:31 -0500
+
+librga (2.2.0-1+20231208.gita9fc19e6~jammy) jammy; urgency=medium
+
+  * Update git a9fc19e6
+
+ -- Joshua Riek <jjriek@verizon.net>  Thu, 22 Feb 2024 21:53:50 -0500
+
 librga (2.2.0-1) unstable; urgency=medium
 
   * debian: Update to support rga3
